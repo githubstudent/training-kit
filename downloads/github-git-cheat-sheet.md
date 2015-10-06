@@ -247,3 +247,5 @@ Downloads bookmark history and incorporates changes
 <div class="col-md-6">
 {{ colFour | markdownify }}
 </div>
+
+Hello, I'm new to github and don't know what I'm doing.
